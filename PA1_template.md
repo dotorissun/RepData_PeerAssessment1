@@ -1,9 +1,3 @@
----
-title: "PA1_template"
-author: "hsjeon"
-date: "Sunday, April 19, 2015"
-output: html_document
----
 
 #Assignment
 
